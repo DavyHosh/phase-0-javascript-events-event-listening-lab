@@ -4,3 +4,6 @@ function addingEventListener() {
         alert('Button was clicked!');
     });
 }
+
+// Call the function to add the event listener
+addingEventListener();
